@@ -11,8 +11,7 @@ Require it in your config:
 local config = {
   --...
   context = {
-    ['context.log'] = { level = "debug" },
-    ['context.store'] = {}
+    ['lusty-log.context.log'] = { level = "debug" }
   }
   -...
 }
