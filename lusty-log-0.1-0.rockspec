@@ -14,6 +14,7 @@ description = {
 }
 dependencies = {
   "lua >= 5.1",
+  "lusty >= 0.1-0",
   "busted >= 1.7-1"
 }
 build = {
